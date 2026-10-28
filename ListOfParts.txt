@@ -1,0 +1,27 @@
+Elecronics:
+1x RP Pico 2
+1x PCF8575
+1x MCP3208
+4x RJ45 port
+1x slider potentiometer CDE23N-60-B10K
+4x rotary potentiometer (300 degrees) B10K (in pedals and handbrake)
+16x tact switch (height 7.8mm)
+7x limit switch (in the shifter)
+1x 4-position rotary switch SR17A1415F49N
+26x capacitor 100n
+20x resistor 10k
+20x resistor 3k3
+6x resistor 1k
+resistors 1% 150R, 330R, 600R 2x1k, 1k68 (as a sum), 3k, 6k8
+some PCBs
+some wires, male & female goldpin rasters
+2x RJ45 cable (1.5m ?)
+usb cable for Pico (USB-A to micro USB)
+
+Mechanical parts:
+2x bering 32x20x7
+1x drilled-out screw M10 55mm (i use 6mm drill) (in steering wheel, because the printed one is too weak)
+knitted elastic band 20mm (for automatic steering wheel centering)
+3x spring 1.2 mm x 15.2 x 63, total coils 13 (in pedals)
+
+some parts in handbrake and shifter???
